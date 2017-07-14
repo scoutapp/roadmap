@@ -1,4 +1,4 @@
-![scout logo](https://apm.scoutapp.com/assets/public/orange_logo-8fb7805c7eb95e306efe263dbe27994bfcf3610e0bb5a879f626448889e00515.png)
+![scout logo](http://help.apm.scoutapp.com/images/logo.png)
 
 # Scout Roadmap
 
