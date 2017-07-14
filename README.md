@@ -1,4 +1,4 @@
-![scout logo](http://help.apm.scoutapp.com/images/logo.png)
+![scout logo](https://avatars6.githubusercontent.com/u/458509?v=4&s=200)
 
 # Scout Roadmap
 
