@@ -2,9 +2,15 @@
 
 # Scout Roadmap
 
-This is an experiment in sharing ideas for our product roadmap at [Scout](https://scoutapp.com). We post ideas we are considering for feedback as issues - feel free to comment or subscribe to notifications on issues for updates.
+This is the public product roadmap for [Scout](https://scoutapp.com), application monitoring that developers ❤️. 
 
-You are also encouraged to post your own ideas.
+How this works:
+
+* Review existing suggestions and ideas via [issues](https://github.com/scoutapp/roadmap/issues).
+* If you're interested an issue, give it a 👍. We'll update progress on the issue.
+* If you don't see your idea, create a new issue.
+* We label ideas we're working on as "in progress". We typically don't provide ETAs until an issue nears completion.
+* We label ideas we're planning on starting as "soon".
 
 ## Monitoring agents
 
