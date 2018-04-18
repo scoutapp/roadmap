@@ -9,7 +9,7 @@ How this works:
 * Review existing suggestions and ideas via [issues](https://github.com/scoutapp/roadmap/issues).
 * If you're interested an issue, give it a 👍. We'll update progress on the issue and mention you when the feature is ready.
 * If you don't see your idea, create a new issue.
-* Issue progression is done via labells:
+* Issue progression is done via labels:
   * `soon` - work will begin shortly.
   * `in progress` - we've started work.
   * `tech preview` - the issue is available with rough edges
