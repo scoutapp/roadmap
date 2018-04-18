@@ -7,10 +7,13 @@ This is the public product roadmap for [Scout](https://scoutapp.com), applicatio
 How this works:
 
 * Review existing suggestions and ideas via [issues](https://github.com/scoutapp/roadmap/issues).
-* If you're interested an issue, give it a 👍. We'll update progress on the issue.
+* If you're interested an issue, give it a 👍. We'll update progress on the issue and mention you when the feature is ready.
 * If you don't see your idea, create a new issue.
-* We label ideas we're working on as "in progress". We typically don't provide ETAs until an issue nears completion.
-* We label ideas we're planning on starting as "soon".
+* Issue progression is done via labells:
+  * `soon` - work will begin shortly.
+  * `in progress` - we've started work.
+  * `tech preview` - the issue is available with rough edges
+* When an issue is polished, we'll close it.
 
 ## Monitoring agents
 
