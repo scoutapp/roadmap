@@ -21,3 +21,4 @@ For issues specific to our monitoring agents, please see their respective reposi
 
 * [Ruby monitoring agent](https://github.com/scoutapp/scout_apm_ruby)
 * [Elixir monitoring agent](https://github.com/scoutapp/scout_apm_elixir)
+* [Python monitoring agent](https://github.com/scoutapp/scout_apm_python)
